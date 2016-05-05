@@ -1,0 +1,20 @@
+{
+  "name": "happy-babel-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "happy-crud": "https://github.com/KodeKreatif/happy-crud/tarball/master"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.8.0",
+    "babel-core": "^6.8.0",
+    "babel-polyfill": "^6.8.0",
+    "babel-preset-stage-3": "^6.5.0"
+  }
+}
